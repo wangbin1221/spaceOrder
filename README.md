@@ -8,8 +8,11 @@
 
 
 base包里是一些view和安卓组件的基类
+
 core包网络请求等
+
 db数据库
+
 modules是当前实现的主要功能分块
 
 搜索页，支持下拉刷新，recyclerView+viewpager等实现
