@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMeeting</string>
+    <string name="loading">loading</string>
+    <string name="homepage">首页</string>
+    <string name="order">订单</string>
+    <string name="story">故事</string>
+    <string name="mine">我的</string>
+    <string name="double_click_exit_toast">Press the back button again to exit</string>
+    <string name="price">￥%1$s/小时</string>
+    <string name="http_error">network error</string>
+    <string name="see_all_comment">查看全部%1$s条点评</string>
+    <string name="special_desc">%1$s\n2、空间%2$s抽烟\n3、空间%3$s携带宠物\n4、空间%4$s用餐</string>
+    <string name="special_4">\n4、为了更好的为您服务,我们建议您提前24小时预订</string>
+    <string name="rule">入店前%1$s取消订单,可全额退款,在此之后取消订单将收取交易额的%2$s作为违约金,超时不可取消订单,且不退款</string>
+</resources>
