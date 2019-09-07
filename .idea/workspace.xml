@@ -126,7 +126,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="66">
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
@@ -3474,7 +3474,7 @@
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6163683" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.4996299" visible="true" weight="0.40025574" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.4996299" visible="true" weight="0.64961636" />
       <window_info id="Captures" order="5" sideWeight="0.49232736" weight="0.24944486" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.27085853" visible="true" weight="0.28826895" />
       <window_info anchor="right" id="Gradle" order="6" weight="0.26037195" />
@@ -3862,7 +3862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="66">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
